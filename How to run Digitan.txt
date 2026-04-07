@@ -1,0 +1,13 @@
+How to run bot
+
+1. Open powershell
+
+2.cd "put the location of the DIgitan Files here" (example cd C:\Users\username\downloads\The Digitan Files)
+
+3. Enter ".\.venv\Scripts\Activate.ps1" in powershell
+
+4. Enter "$env:DISCORD_TOKEN = "MTQ5MDAyMTk3MzA3MjQxMjczNA.GJD38H.JTrr3zPU6qkeijkB5YjTovYNGn8VS7fIuZi1eM"" (ask me for the token I reset it every time so no one gets to steal the bot)
+
+5. Then lastly enter in "cd "The Digitan Files"; python bot.py" in powershell
+
+6. It should run and make the bot active

@@ -1,0 +1,62 @@
+{
+  "1067838345180368957": {
+    "messages_today": 5,
+    "messages_total": 5,
+    "joins_today": 0,
+    "joins_total": 0,
+    "leaves_today": 0,
+    "leaves_total": 0,
+    "commands_today": 0,
+    "reactions_today": 0,
+    "voice_minutes_today": 15,
+    "active_users_today": [
+      727091203606183936,
+      477915902298423298,
+      1307964130082160662
+    ],
+    "channel_message_counts": {
+      "1067843833938837657": 2,
+      "1067838345675288577": 3
+    },
+    "hourly_messages": {
+      "0": 5
+    },
+    "last_reset": "2026-04-07",
+    "peak_online": 13,
+    "daily_history": []
+  },
+  "1171487567343013979": {
+    "messages_today": 0,
+    "messages_total": 0,
+    "joins_today": 0,
+    "joins_total": 0,
+    "leaves_today": 0,
+    "leaves_total": 0,
+    "commands_today": 0,
+    "reactions_today": 0,
+    "voice_minutes_today": 0,
+    "active_users_today": [],
+    "channel_message_counts": {},
+    "hourly_messages": {},
+    "last_reset": "2026-04-07",
+    "peak_online": 9,
+    "daily_history": []
+  },
+  "1473730487074820230": {
+    "messages_today": 0,
+    "messages_total": 0,
+    "joins_today": 0,
+    "joins_total": 0,
+    "leaves_today": 0,
+    "leaves_total": 0,
+    "commands_today": 0,
+    "reactions_today": 0,
+    "voice_minutes_today": 0,
+    "active_users_today": [],
+    "channel_message_counts": {},
+    "hourly_messages": {},
+    "last_reset": "2026-04-07",
+    "peak_online": 2,
+    "daily_history": []
+  }
+}
