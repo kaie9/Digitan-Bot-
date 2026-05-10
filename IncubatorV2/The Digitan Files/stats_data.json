@@ -1,0 +1,261 @@
+{
+  "1171487567343013979": {
+    "messages_today": 38,
+    "messages_total": 655,
+    "joins_today": 0,
+    "joins_total": 0,
+    "leaves_today": 0,
+    "leaves_total": 0,
+    "commands_today": 0,
+    "reactions_today": 2,
+    "voice_minutes_today": 45,
+    "active_users_today": [
+      388959143542915072,
+      634688308777189376,
+      321913882425950208,
+      582588688794386563,
+      826792438902554665,
+      612114025530261517,
+      887585985104322581,
+      721292995797975094
+    ],
+    "channel_message_counts": {
+      "1474636782728515756": 13,
+      "1171487567905030238": 10,
+      "1196167071554338876": 15
+    },
+    "channel_message_counts_all_time": {
+      "1474636782728515756": 92,
+      "1367926062624936037": 1,
+      "1171487567905030238": 122,
+      "1171757782496714793": 9,
+      "1423952175750447155": 1,
+      "1215697410198601788": 119,
+      "1171487567905030239": 1,
+      "1186584555587641424": 2,
+      "1196167071554338876": 15
+    },
+    "hourly_messages": {
+      "3": 13,
+      "5": 25
+    },
+    "last_reset": "2026-05-10",
+    "peak_online": 22,
+    "daily_history": [
+      {
+        "date": "2026-04-04",
+        "messages": 80,
+        "joins": 0,
+        "leaves": 0,
+        "commands": 4,
+        "reactions": 0,
+        "voice_minutes": 442.1189575592677,
+        "active_users": 12
+      },
+      {
+        "date": "2026-04-05",
+        "messages": 210,
+        "joins": 0,
+        "leaves": 0,
+        "commands": 2,
+        "reactions": 3,
+        "voice_minutes": 231.28505292336146,
+        "active_users": 13
+      },
+      {
+        "date": "2026-04-07",
+        "messages": 179,
+        "joins": 0,
+        "leaves": 0,
+        "commands": 0,
+        "reactions": 1,
+        "voice_minutes": 1299.138075355689,
+        "active_users": 11
+      },
+      {
+        "date": "2026-05-08",
+        "messages": 148,
+        "joins": 0,
+        "leaves": 0,
+        "commands": 1,
+        "reactions": 10,
+        "voice_minutes": 357.19380604426067,
+        "active_users": 13
+      }
+    ]
+  },
+  "1067838345180368957": {
+    "messages_today": 13,
+    "messages_total": 682,
+    "joins_today": 0,
+    "joins_total": 0,
+    "leaves_today": 0,
+    "leaves_total": 0,
+    "commands_today": 0,
+    "reactions_today": 0,
+    "voice_minutes_today": 58.05343891779582,
+    "active_users_today": [
+      727091203606183936,
+      188594430507352065,
+      1352691576823873556,
+      488410928576987159
+    ],
+    "channel_message_counts": {
+      "1364263770427490476": 2,
+      "1500881480232996875": 10,
+      "1483967529524396084": 1
+    },
+    "channel_message_counts_all_time": {
+      "1067843833938837657": 96,
+      "1375682690556362752": 3,
+      "1087899705129828463": 16,
+      "1067838345675288577": 147,
+      "1440035235902390432": 4,
+      "1067838345675288579": 2,
+      "1390750891480449215": 2,
+      "1405605233974837330": 1,
+      "1406830853337911427": 4,
+      "1361888103559598090": 1,
+      "1087899763212570785": 11,
+      "1068971896684679218": 5,
+      "1424386438564155583": 1,
+      "1500881480232996875": 39,
+      "1281650598432997511": 2,
+      "1364263770427490476": 2,
+      "1483967529524396084": 1
+    },
+    "hourly_messages": {
+      "3": 4,
+      "4": 8,
+      "5": 1
+    },
+    "last_reset": "2026-05-10",
+    "peak_online": 18,
+    "daily_history": [
+      {
+        "date": "2026-04-05",
+        "messages": 236,
+        "joins": 0,
+        "leaves": 0,
+        "commands": 1,
+        "reactions": 2,
+        "voice_minutes": 1311.6280473033587,
+        "active_users": 11
+      },
+      {
+        "date": "2026-04-06",
+        "messages": 35,
+        "joins": 0,
+        "leaves": 0,
+        "commands": 0,
+        "reactions": 2,
+        "voice_minutes": 885.0484065413474,
+        "active_users": 6
+      },
+      {
+        "date": "2026-04-07",
+        "messages": 366,
+        "joins": 0,
+        "leaves": 0,
+        "commands": 11,
+        "reactions": 2,
+        "voice_minutes": 1040,
+        "active_users": 12
+      },
+      {
+        "date": "2026-05-08",
+        "messages": 32,
+        "joins": 0,
+        "leaves": 0,
+        "commands": 0,
+        "reactions": 1,
+        "voice_minutes": 22,
+        "active_users": 3
+      }
+    ]
+  },
+  "1473730487074820230": {
+    "messages_today": 58,
+    "messages_total": 359,
+    "joins_today": 0,
+    "joins_total": 2,
+    "leaves_today": 0,
+    "leaves_total": 2,
+    "commands_today": 8,
+    "reactions_today": 9,
+    "voice_minutes_today": 317.90023915370307,
+    "active_users_today": [
+      727091203606183936,
+      1024058221452869713,
+      582588688794386563,
+      573776058407583774
+    ],
+    "channel_message_counts": {
+      "1473734315824119982": 14,
+      "1490263684520345680": 44
+    },
+    "channel_message_counts_all_time": {
+      "1490263684520345680": 93,
+      "1473734315824119982": 34,
+      "1473730487813144772": 8
+    },
+    "hourly_messages": {
+      "1": 14,
+      "3": 44
+    },
+    "last_reset": "2026-05-10",
+    "peak_online": 8,
+    "daily_history": [
+      {
+        "date": "2026-04-04",
+        "messages": 32,
+        "joins": 0,
+        "leaves": 0,
+        "commands": 3,
+        "reactions": 2,
+        "voice_minutes": 305.39860710302986,
+        "active_users": 3
+      },
+      {
+        "date": "2026-04-05",
+        "messages": 185,
+        "joins": 2,
+        "leaves": 2,
+        "commands": 15,
+        "reactions": 12,
+        "voice_minutes": 2720.03681358099,
+        "active_users": 9
+      },
+      {
+        "date": "2026-04-07",
+        "messages": 73,
+        "joins": 0,
+        "leaves": 0,
+        "commands": 3,
+        "reactions": 0,
+        "voice_minutes": 243,
+        "active_users": 3
+      },
+      {
+        "date": "2026-04-10",
+        "messages": 9,
+        "joins": 0,
+        "leaves": 0,
+        "commands": 0,
+        "reactions": 1,
+        "voice_minutes": 0,
+        "active_users": 3
+      },
+      {
+        "date": "2026-05-08",
+        "messages": 2,
+        "joins": 0,
+        "leaves": 0,
+        "commands": 0,
+        "reactions": 0,
+        "voice_minutes": 2,
+        "active_users": 1
+      }
+    ]
+  }
+}
